@@ -7,7 +7,7 @@
 
 - 🌱 Estou melhorando minhas experiências em Java, para aprender novas frameworks como **Spring**
 
-- 📝 Você pode me encontrar no LinkedIn [https://www.linkedin.com/in/vitor-dalvi-637008264/](https://www.linkedin.com/in/vitor-dalvi-637008264/)
+- 📝 Você pode me encontrar no LinkedIn [https://www.linkedin.com/vitordalvi](https://www.linkedin.com/in/vitor-dalvi-637008264/)
 
 - 📫 Para entrar em contato, basta me enviar um email **vitodalvi@gmail.com**
 
