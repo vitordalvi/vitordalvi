@@ -11,7 +11,7 @@
 
 - 📫 Para entrar em contato, basta me enviar um email **vitodalvi@gmail.com**
 
-<h3 align="left">Entre em contato aqui também:</h3>
+<h3 align="left">Por aqui também:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vitor-dalvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vitor-dalvi" height="30" width="40" /></a>
 <a href="https://instagram.com/vit.dlv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vit.dlv" height="30" width="40" /></a>
