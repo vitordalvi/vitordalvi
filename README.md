@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vitordalvi&label=Profile%20views&color=0e75b6&style=flat" alt="vitordalvi" /> </p>
 
-- 📚 Estudando Informática no Instituto Federal do Espírito Santo (IFES)
+- 📚 Estudando Informática no Instituto Federal do Espírito Santo [IFES](https://www.ifes.edu.br/)
 
 - 🔭 Atualmente estou trabalhando na [Vitury!](https://vitury.net)
 
@@ -13,11 +13,12 @@
 
 - 📫 Para entrar em contato, basta me enviar um email **vitodalvi@gmail.com**
 
+- 🎮 Caso você queira, pode entrar em contato pelo Discord também! [vitor dalvi#6519]
+
 <h3 align="left">Por aqui também:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vitor-dalvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vitor-dalvi" height="30" width="40" /></a>
-<a href="https://instagram.com/vit.dlv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vit.dlv" height="30" width="40" /></a>
-<a href="https://discord.gg/vitdlv#0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vitdlv#0001" height="30" width="40" /></a>
+<a href="https://instagram.com/vit.dlv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-
 </p>
 
 <h3 align="left">Linguagens e ferramentas:</h3>
