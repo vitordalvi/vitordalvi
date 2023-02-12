@@ -13,7 +13,8 @@
 
 - 📫 Para entrar em contato, basta me enviar um email **vitodalvi@gmail.com**
 
-- 🎮 Caso você queira, pode entrar em contato pelo Discord também! [![Discord Presence](https://lanyard.cnrad.dev/api/994391058911871016)](https://discord.com/users/1062213127862747136)
+- 🎮 Caso você queira, pode entrar em contato pelo Discord também!
+-  [![Discord Presence](https://lanyard.cnrad.dev/api/1062213127862747136)](https://discord.com/users/1062213127862747136)
 
 
 <h3 align="left">Linguagens e ferramentas:</h3>
