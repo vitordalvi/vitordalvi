@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vitordalvi&label=Profile%20views&color=0e75b6&style=flat" alt="vitordalvi" /> </p>
 
-- 📚 Estudando Informática no Instituto Federal do Espírito Santo ([IFES](https://www.ifes.edu.br/))
-
 - 🔭 Atualmente estou trabalhando na [Vitury!](https://vitury.net)
 
 - 🌱 Estou melhorando minhas experiências em Java, para aprender novas frameworks como **Spring**
