@@ -5,7 +5,7 @@
 
 - 🔭 Atualmente estou trabalhando na [Vitury!](https://vitury.net)
 
-- 🌱 Estou melhorando minhas experiências em Java, para aprender novas frameworks como **Spring**
+- 🌱 Estou melhorando minhas experiências em Java, para aprender novas frameworks como **Spring**, **Play** e **Hibernate**!
 
 - 📝 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/vitor-dalvi-637008264/)
 
