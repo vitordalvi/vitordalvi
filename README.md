@@ -18,3 +18,4 @@
 <p align="left"></a> </p>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1062213127862747136)](https://discord.com/users/1062213127862747136)
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
