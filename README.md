@@ -1,8 +1,6 @@
 <h1 align="center">👋 Olá! Meu nome é Vitor Dalvi</h1>
 <h3 align="center">Eu sou um desenvolvedor apaixonado por Java.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vitordalvi&label=Profile%20views&color=0e75b6&style=flat" alt="vitordalvi" /> </p>
-
 - 🔭 Estudando na escola técnica [CEDTEC](https://cedtec.com.br)
 
 - 🌱 Estou melhorando minhas experiências em Java e Spring para aprender novas bases de dados e Kotlin.
