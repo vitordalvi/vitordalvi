@@ -13,7 +13,6 @@
 
 - 🎮 Caso você queira, pode entrar em contato pelo Discord também!
 
-[![wakatime](https://wakatime.com/badge/github/vitordalvi/vitordalvi.svg)](https://wakatime.com/badge/github/vitordalvi/vitordalvi)
 <h3 align="left">Acompanhe o que estou fazendo ou ouvindo:</h3>
 <p align="left"></a> </p>
 
