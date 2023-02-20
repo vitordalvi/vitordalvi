@@ -13,8 +13,10 @@
 
 - 🎮 Caso você queira, pode entrar em contato pelo Discord também!
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <h3 align="left">Acompanhe o que estou fazendo ou ouvindo:</h3>
 <p align="left"></a> </p>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1062213127862747136)](https://discord.com/users/1062213127862747136)
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
