@@ -4,7 +4,7 @@
 
      | Aqui! Você sabia que pode ter algumas informações minhas?
 
-- 📗 Estudando no [Informática no Instituto Federal do Espírito Santo](https://www.ifes.edu.br/)
+- 📗 Estudando no Informática no [Instituto Federal do Espírito Santo](https://www.ifes.edu.br/)
 
 - 🔭 Estudando ensino médio + informática escola técnica [CEDTEC](https://cedtec.com.br)
 
