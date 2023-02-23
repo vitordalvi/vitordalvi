@@ -4,7 +4,9 @@
 
      | Aqui! Você sabia que pode ter algumas informações minhas?
 
-- 🔭 Estudando na escola técnica [CEDTEC](https://cedtec.com.br)
+- 📗 Estudando no [Informática no Instituto Federal do Espírito Santo](https://www.ifes.edu.br/)
+
+- 🔭 Estudando ensino médio + informática escola técnica [CEDTEC](https://cedtec.com.br)
 
 - 🌱 Estou melhorando minhas experiências em Java e Spring para aprender novas bases de dados e Kotlin.
 
