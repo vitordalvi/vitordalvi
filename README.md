@@ -5,7 +5,7 @@
 <h1 align="center">👋 Olá! Meu nome é Vitor Dalvi</h1>
 <h3 align="center">Eu sou um desenvolvedor apaixonado por Java.</h3>
 
-     | Aqui! Você sabia que pode ter algumas informações minhas?
+     | Ei! Você sabia que pode ter algumas informações minhas?
 
 - 📗 Estudando Informática no [Instituto Federal do Espírito Santo](https://www.ifes.edu.br/)
 
