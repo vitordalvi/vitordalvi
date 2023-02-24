@@ -1,3 +1,6 @@
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <a href="https://wakatime.com/@fda95573-7762-4775-a6bc-01089b0fed00"><img src="https://wakatime.com/badge/user/fda95573-7762-4775-a6bc-01089b0fed00.svg"></a>
 <h1 align="center">👋 Olá! Meu nome é Vitor Dalvi</h1>
 <h3 align="center">Eu sou um desenvolvedor apaixonado por Java.</h3>
@@ -15,9 +18,6 @@
 - 📫 Para entrar em contato, basta me enviar um email **vitodalvi@gmail.com**
 
 - 🎮 Caso você queira, pode entrar em contato pelo Discord também!
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 <h3 align="left">Acompanhe o que estou fazendo ou ouvindo:</h3>
 <p align="left"></a> </p>
