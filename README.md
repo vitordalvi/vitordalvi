@@ -13,5 +13,3 @@
 - 📝 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/vitor-dalvi-637008264/)
 
 - 📫 Para entrar em contato, basta me enviar um email **vitodalvi@gmail.com**
-
-- 🎮 Caso você queira, pode entrar em contato pelo Discord também! vitor dalvi#0000.
