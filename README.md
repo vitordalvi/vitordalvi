@@ -6,8 +6,6 @@
 
      | Ei! Você sabia que pode ter algumas informações minhas?
 
-- 📗 Estudando Informática no [Instituto Federal do Espírito Santo](https://www.ifes.edu.br/)
-
 - 🔭 Estudando ensino médio + informática na escola técnica [CEDTEC](https://cedtec.com.br)
 
 - 🌱 Estou melhorando minhas experiências em Java e Spring para aprender novas bases de dados e Kotlin.
