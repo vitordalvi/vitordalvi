@@ -2,7 +2,7 @@
 
 <a href="https://wakatime.com/@fda95573-7762-4775-a6bc-01089b0fed00"><img src="https://wakatime.com/badge/user/fda95573-7762-4775-a6bc-01089b0fed00.svg"></a>
 <h1 align="center">👋 Olá! Meu nome é Vitor Dalvi</h1>
-<h3 align="center">Eu sou um desenvolvedor apaixonado por Java.</h3>
+<h3 align="center">Eu sou um desenvolvedor Java.</h3>
 
      | Ei! Você sabia que pode ter algumas informações minhas?
 
