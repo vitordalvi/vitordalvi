@@ -2,3 +2,5 @@
 <h1 align="center">👋 Olá! Meu nome é Vitor Dalvi</h1>
 
 - 📫 Para entrar em contato, basta me enviar um email **vitodalvi@gmail.com**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
