@@ -3,6 +3,16 @@
 
 - 📫 Para entrar em contato, basta me enviar um email **vitordalvi@outlook.com**!
 
-  made in Vitória.
+
+
+
+
+
+
+
+
+
+
+  made in Vitória, ES - 🇧🇷
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
