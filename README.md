@@ -2,5 +2,7 @@
 <h1 align="center">👋 Olá! Meu nome é Vitor Dalvi</h1>
 
 - 📫 Para entrar em contato, basta me enviar um email **vitordalvi@outlook.com**!
+
+  made in Vitória.
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
