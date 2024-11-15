@@ -13,6 +13,6 @@
 
 
 
-  made in Vitória, ES - 🇧🇷
+  Vitória, ES - 🇧🇷
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
