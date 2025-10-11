@@ -10,8 +10,7 @@
 
 
 
-
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vitordalvi)](https://github.com/anuraghazra/github-readme-stats)
 
 
   Vitória, ES - 🇧🇷
