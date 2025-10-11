@@ -4,7 +4,7 @@
 
 - 📫 Para entrar em contato, basta me enviar um email **vitodalvi@gmail.com**!
 
-
+  Vitória, ES - 🇧🇷
 
 
 
@@ -12,5 +12,3 @@
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vitordalvi)](https://github.com/anuraghazra/github-readme-stats)
 
-
-  Vitória, ES - 🇧🇷
